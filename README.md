@@ -1,7 +1,5 @@
 # 👋 Hiii! I'm AbdolOlkarim Bazdar
-
 ## 💻 Front-End Developer
-
 ---
 
 ## 🚀 Skills & Technologies
