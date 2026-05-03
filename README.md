@@ -1,9 +1,6 @@
 # 👋 Hiii! I'm AbdolOlkarim Bazdar
+
 ## 💻 Front-End Developer
----
-
-## 🚀 Skills & Technologies
-
 ### 💡 Front-End
 - **Frameworks/Libraries:**
 - ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -17,7 +14,6 @@
 - ![WordPress](https://img.shields.io/badge/WordPress-%231170A6.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
----
 ## 🔗 Connect with Me 
 <p align="left">
   <a href="https://abdolkarimbazdar.ir" target="_blank" rel="noreferrer">
@@ -34,7 +30,7 @@
   </a>
 </p>
 
----
+
 <!--
 ## 💡 About Me
 
