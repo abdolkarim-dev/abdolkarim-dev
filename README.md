@@ -1,6 +1,6 @@
 # 👋 Hiii! I'm AbdolOlkarim Bazdar
 
-[//]: ## 💻 Front-End Developer
+[//]: # (## 💻 Front-End Developer)
 ### 💡 Front-End
 - **Frameworks/Libraries:**
 - ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
